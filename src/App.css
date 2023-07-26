@@ -16,22 +16,24 @@
   --container-color: #fff; */
 
   /* GPT3.5 */
-  /* --hue: 0;
+  --hue: 0;
   --sat: 0%;
   --title-color: hsl(var(--hue), var(--sat), 80%);
   --title-color-dark: hsl(var(--hue), var(--sat), 100%);
   --text-color: hsl(var(--hue), var(--sat), 54%);
   --body-color: hsl(var(--hue), var(--sat), 2%);
-  --container-color: #111; */
+  --highlight-color: rgba(205, 127, 50);
+  --container-color: #111;
 
   /* GPT4 */
-  --hue: 220;
+  /* --hue: 220;
   --sat: 15%;
   --title-color: hsl(var(--hue), var(--sat), 80%);
   --title-color-dark: hsl(var(--hue), var(--sat), 60%);
   --text-color: hsl(var(--hue), var(--sat), 70%);
+  --highlight-color: rgba(205, 127, 50);
   --body-color: #000;
-  --container-color: #111;
+  --container-color: #111; */
 
   /* porta 400 */
   /* --hue: 40;
