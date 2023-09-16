@@ -62,7 +62,10 @@ function Data() {
         the highest standards of functionality and user experience.
       </p>
 
-      <a href="#contact" className="button button--flex">
+      <a
+        href="https://www.linkedin.com/in/omkar-yadav10/"
+        className="button button--flex"
+      >
         Say Hello
         <svg
           class="button__icon"
