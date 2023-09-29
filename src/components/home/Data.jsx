@@ -57,9 +57,12 @@ function Data() {
       </h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        As a Software Engineer at CallHub, I architect, code, and debug systems
-        that drive our industry-leading telecommunications software, ensuring
-        the highest standards of functionality and user experience.
+        Graduate Computer Science student at San Jose State University with over
+        2 years of experience in building impactful software solutions. At
+        CallHub and Larsen & Toubro Infotech, I've led instrumental initiatives
+        in modernizing legacy systems, eliminating technical debt, resolving
+        complex data discrepancies, and automating processes to enhance
+        efficiency and performance.
       </p>
 
       <a

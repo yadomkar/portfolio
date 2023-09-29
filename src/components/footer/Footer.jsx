@@ -1,29 +1,30 @@
 import React from 'react';
 import './footer.css';
+import resume from '../../assets/omkar_resume.pdf';
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Yadav</h1>
-        <ul className="footer__list">
-          <li>
-            <a href="#experience" className="footer__link">
-              Experience
-            </a>
-          </li>
-          <li>
-            <a href="#education" className="footer__link">
-              Education
-            </a>
-          </li>
+        {/* <h1 className="footer__title">Yadav</h1> */}
+        {/* <ul className="footer__list"> */}
+        {/* <li>
+          <a href="#experience" className="footer__link">
+            Experience
+          </a>
+        </li>
+        <li>
+          <a href="#education" className="footer__link">
+            Education
+          </a>
+        </li>
 
-          <li>
-            <a href="#projects" className="footer__link">
-              Projects
-            </a>
-          </li>
-        </ul>
+        <li>
+          <a href="#projects" className="footer__link">
+            Projects
+          </a>
+        </li> */}
+        {/* </ul> */}
         <div className="footer__social">
           <a
             href="https://www.linkedin.com/in/omkar-yadav10/"
@@ -42,7 +43,7 @@ const Footer = () => {
             <i class="uil uil-github-alt"></i>
           </a>
           <a
-            href="https://www.instagram.com"
+            href={resume}
             className="footer__social-link"
             target="_blank"
             rel="noreferrer"

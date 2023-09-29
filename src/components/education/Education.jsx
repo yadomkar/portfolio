@@ -19,11 +19,7 @@ const Education = () => {
                   <i className="uil uil-calendar-alt"></i> Aug 2023 - May 2025
                 </div>
                 <div className="education__description">
-                  Collaborated with a Big 4 multinational bank on their
-                  next-generation Data Fabric project. Played a key role in
-                  designing solutions to address data discrepancies, automated
-                  data validation across clusters, and safeguarded platform
-                  integrity by resolving critical data loss issues.
+                  Relevant Coursework: Advanced Algorithms, Computer Networks.
                 </div>
               </div>
 
@@ -46,11 +42,8 @@ const Education = () => {
                   <i className="uil uil-calendar-alt"></i> Aug 2016 - Oct 2020
                 </div>
                 <div className="education__description">
-                  Collaborated with a Big 4 multinational bank on their
-                  next-generation Data Fabric project. Played a key role in
-                  designing solutions to address data discrepancies, automated
-                  data validation across clusters, and safeguarded platform
-                  integrity by resolving critical data loss issues.
+                  Relevant Coursework: Operating Systems, Database Systems, Data
+                  Structures.
                 </div>
               </div>
             </div>
